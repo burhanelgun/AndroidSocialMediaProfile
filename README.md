@@ -1,4 +1,5 @@
 # Android Social Media Profile
+It is an Android app which contains a sample social media profile page.Basically, I used RecyclerView and Fragment for this project.
 
 ## Used External Libraries
 [Retrofit](https://square.github.io/retrofit/) for getting JSON datas. </br>
@@ -7,5 +8,10 @@
 
 
 
-## 
+## Screenshots
+<p float="left">
+    <img src="https://github.com/burhanelgun/AndroidSocialMediaProfile/blob/master/Screenshot_20190212-155726.jpg" width="290" title="hover text">
+<img src="https://github.com/burhanelgun/AndroidSocialMediaProfile/blob/master/Screenshot_20190212-155733.jpg" width="290" title="hover text">
+  <img src="https://github.com/burhanelgun/AndroidSocialMediaProfile/blob/master/Screenshot_20190212-155747.jpg" width="290" title="hover text">
+</p>
 
