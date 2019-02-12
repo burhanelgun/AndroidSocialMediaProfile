@@ -1,7 +1,7 @@
 # Android Social Media Profile
 It is an Android app which contains a sample social media profile page. Basically, I used RecyclerView, Fragment and Collapsing Toolbar With Parallax Image for this project. Also I used MVP design pattern.
 
-You can run this project on your Android device by installing the [app-debug.apk](https://github.com/burhanelgun/AndroidSocialMediaProfile/raw/master/app-debug.apk).
+You can run this project on your device by installing the [app-debug.apk](https://github.com/burhanelgun/AndroidSocialMediaProfile/raw/master/app-debug.apk).
 
 ## Used External Libraries
 [Retrofit](https://square.github.io/retrofit/) for getting JSON datas. </br>
