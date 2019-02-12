@@ -1,5 +1,5 @@
 # Android Social Media Profile
-It is an Android app which contains a sample social media profile page.Basically, I used RecyclerView and Fragment for this project.
+It is an Android app which contains a sample social media profile page. Basically, I used RecyclerView, Fragment and Collapsing Toolbar With Parallax Image for this project.
 
 ## Used External Libraries
 [Retrofit](https://square.github.io/retrofit/) for getting JSON datas. </br>
